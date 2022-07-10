@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/drawable/ic_calculator.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/drawable/textviewboarder.xml" value="0.152" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/accepted_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_appointments.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_create_account.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_display_doctor_info.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_display_patient_info.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_doctor_appointments.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_doctor_edit_profile_info.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_doctor_localisation.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_doctor_menu.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_doctors_by_speciality.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.15" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_first_menu.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_healthnews.xml" value="0.17028985507246377" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_hospitalandpharmacyinfo.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_medical_folder.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_my_doctor_info.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_my_doctors.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_my_patient_info.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_my_patient_medical_folder.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_my_patients.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_patient_profile_informations.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_pharmacyandhospitalinfo.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_problemandsolution.xml" value="0.25" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_schedule_appointment.xml" value="0.33" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_search_doctor.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_search_doctor_speciality.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_search_patient.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/add_consultation_dialog.xml" value="0.25" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/add_hospitalisation_dialog.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/appointment_row.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/custom_dialog.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/declined_fragment.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/fragment_search_doctor_speciality.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/fragmentone_layout.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/fragmenttwo_layout.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/hospitalisation_fragment.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/hospitalisation_row.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/item_layout.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_Diarrhea.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_Headaches.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_Mononucleosis.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_allergies.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_anxiety.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_asthma.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_bmicalculate_dialog.xml" value="0.18" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_bronchitis.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_coldandflu.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_dialog.xml" value="0.18" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_diarrhea.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_headaches.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_measles.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_mononucleosis.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/layout_stomachaches.xml" value="0.17074275362318841" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/mypatient_hospitalisation_fragment.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/mypatient_row.xml" value="0.1" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/row.xml" value="0.22" />
+        <entry key="..\:/Alem/HealthCare-master/app/src/main/res/layout/speciality_row.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

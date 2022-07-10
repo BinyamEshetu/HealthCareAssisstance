@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Symptoms"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="watery, loose stools
+frequent bowel movements
+cramping or pain in the abdomen, nausea, bloating
+possibly fever or bloody stools, depending on the cause"
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Causes"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Bacterial infection, caused by contaminated food or water
+Viral infection
+Parasites, which can enter the body through food or water"
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Treatment"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="10dp"
+        android:text="Avoid foods that are milk-based, greasy, high-fiber, or very sweet because these are likely to aggravate diarrhea.
+Avoid caffeine and alcohol.
+Do not eat solid food if you have signs of dehydration (thirst, light-headed, dark urine). Avoid high sugar drinks, like apple juice, grape juice, and soda, which can pull water into the intestine and make the diarrhea persist."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

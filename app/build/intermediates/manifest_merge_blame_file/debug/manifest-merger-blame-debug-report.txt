@@ -1,0 +1,325 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthcare"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the 'MyLocation' functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:9:5-79
+15-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:10:5-81
+16-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.CALL_PHONE" />
+17-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:11:5-69
+17-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:11:22-66
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:12:5-79
+18-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:12:22-77
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:13:5-80
+19-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:13:22-78
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:14:5-78
+20-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:14:22-76
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[com.google.firebase:firebase-database:19.2.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:26:5-67
+21-->[com.google.firebase:firebase-database:19.2.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:26:22-64
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+26
+27    <application
+27-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:16:5-96:19
+28        android:name="androidx.multidex.MultiDexApplication"
+29        android:allowBackup="true"
+29-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:17:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.1.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\d8e6145ebd5f6e1099b739484795a4bd\core-1.1.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/melahealth"
+32-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:18:9-44
+33        android:label="@string/app_name"
+33-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:19:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:20:9-54
+35        android:supportsRtl="true"
+35-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:21:9-35
+36        android:theme="@style/AppTheme" >
+36-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:22:9-40
+37        <activity
+37-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:23:9-26:68
+38            android:name="com.example.healthcare.DoctorUI.MyPatientMedicalFolderActivity"
+38-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:24:13-68
+39            android:label="@string/title_activity_my_patient_medical_folder"
+39-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:25:13-77
+40            android:theme="@style/AppTheme.NoActionBar" />
+40-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:26:13-56
+41        <activity android:name="com.example.healthcare.DoctorsBySpecialityActivity" />
+41-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:27:9-65
+41-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:27:19-62
+42        <activity
+42-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:28:9-31:59
+43            android:name="com.example.healthcare.DoctorUI.DoctorAppointments"
+43-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:29:13-56
+44            android:label="@string/title_activity_doctor_appointments"
+44-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:30:13-71
+45            android:theme="@style/AppTheme.NoActionBar" />
+45-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:31:13-56
+46        <activity android:name="com.example.healthcare.DoctorUI.DoctorEditProfileInfo" />
+46-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:32:9-68
+46-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:32:19-65
+47        <activity android:name="com.example.healthcare.DoctorUI.DisplayDoctorProfileInfo" />
+47-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:33:9-71
+47-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:33:19-68
+48        <activity android:name="com.example.healthcare.DoctorUI.MyPatientInfoActivity" />
+48-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:34:9-68
+48-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:34:19-65
+49        <activity android:name="com.example.healthcare.DoctorUI.MyPatientsActivity" />
+49-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:35:9-65
+49-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:35:19-62
+50        <activity android:name="com.example.healthcare.DoctorUI.DisplayPatientInfo" />
+50-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:36:9-65
+50-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:36:19-62
+51        <activity android:name="com.example.healthcare.MyDoctorInfoActivity" />
+51-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:37:9-58
+51-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:37:19-55
+52        <activity android:name="com.example.healthcare.MyDoctorsActivity" />
+52-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:38:9-55
+52-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:38:19-52
+53        <!--
+54             The API key for Google Maps-based APIs is defined as a string resource.
+55             (See the file "res/values/google_maps_api.xml").
+56             Note that the API key is linked to the encryption key used to sign the APK.
+57             You need a different API key for each encryption key, including the release key that is used to
+58             sign the APK for publishing.
+59             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+60        -->
+61        <meta-data
+61-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:47:9-49:55
+62            android:name="com.google.android.geo.API_KEY"
+62-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:48:13-58
+63            android:value="@string/google_maps_key" />
+63-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:49:13-52
+64
+65        <activity
+65-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:51:9-53:74
+66            android:name="com.example.healthcare.DoctorLocalisation"
+66-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:52:13-47
+67            android:label="@string/title_activity_doctor_localisation" />
+67-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:53:13-71
+68        <activity android:name="com.example.healthcare.ConsultationInfoActivity" />
+68-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:54:9-62
+68-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:54:19-59
+69        <activity
+69-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:55:9-58:59
+70            android:name="com.example.healthcare.MedicalFolderActivity"
+70-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:56:13-50
+71            android:label="@string/title_activity_medical_folder"
+71-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:57:13-66
+72            android:theme="@style/AppTheme.NoActionBar" />
+72-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:58:13-56
+73        <activity android:name="com.example.healthcare.DoctorUI.SearchPatientActivity" />
+73-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:59:9-68
+73-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:59:19-65
+74        <activity
+74-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:60:9-63:59
+75            android:name="com.example.healthcare.AppointmentsActivity"
+75-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:61:13-49
+76            android:label="@string/title_activity_appointments"
+76-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:62:13-64
+77            android:theme="@style/AppTheme.NoActionBar" />
+77-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:63:13-56
+78        <activity android:name="com.example.healthcare.ScheduleAppointmentActivity" />
+78-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:64:9-65
+78-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:64:19-62
+79        <activity android:name="com.example.healthcare.DoctorUI.DoctorMenuActivity" />
+79-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:65:9-65
+79-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:65:19-62
+80        <activity android:name="com.example.healthcare.EditProfileActivity" />
+80-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:66:9-57
+80-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:66:19-54
+81        <activity android:name="com.example.healthcare.PatientProfileInformations" />
+81-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:67:9-64
+81-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:67:19-61
+82        <activity android:name="com.example.healthcare.DisplayDoctorInfo" />
+82-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:68:9-55
+82-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:68:19-52
+83        <activity android:name="com.example.healthcare.DisplayItemDataActivity" />
+83-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:69:9-61
+83-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:69:19-58
+84        <activity
+84-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:70:9-73:59
+85            android:name="com.example.healthcare.SearchDoctorSpecialityActivity"
+85-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:71:13-59
+86            android:label="@string/title_activity_search_doctor_speciality"
+86-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:72:13-76
+87            android:theme="@style/AppTheme.NoActionBar" />
+87-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:73:13-56
+88        <activity android:name="com.example.healthcare.SearchDoctorActivity" />
+88-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:74:9-58
+88-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:74:19-55
+89        <activity android:name="com.example.healthcare.MenuActivity" />
+89-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:75:9-50
+89-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:75:19-47
+90        <activity android:name="com.example.healthcare.CreateAccount" />
+90-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:76:9-51
+90-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:76:19-48
+91        <activity android:name="com.example.healthcare.MainActivity" />
+91-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:77:9-50
+91-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:77:19-47
+92        <activity android:name="com.example.healthcare.MainFirstMenuActivity" />
+92-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:78:9-59
+92-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:78:19-56
+93        <activity android:name="com.example.healthcare.ProblemandSolutionActivity" />
+93-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:79:9-64
+93-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:79:19-61
+94        <activity android:name="com.example.healthcare.HealthNewsActivity" />
+94-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:80:9-56
+94-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:80:19-53
+95        <activity android:name="com.example.healthcare.HospitalandPharmacyInfoActivity" />
+95-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:81:9-69
+95-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:81:19-66
+96        <activity
+96-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:84:9-91:20
+97            android:name="com.example.healthcare.SplashActivity"
+97-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:84:19-49
+98            android:exported="true" >
+98-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:85:13-36
+99            <intent-filter>
+99-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:86:13-90:29
+100                <action android:name="android.intent.action.MAIN" />
+100-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:87:17-69
+100-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:87:25-66
+101
+102                <category android:name="android.intent.category.LAUNCHER" />
+102-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:89:17-77
+102-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:89:27-74
+103            </intent-filter>
+104        </activity>
+105
+106        <meta-data
+106-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:93:9-95:57
+107            android:name="preloaded_fonts"
+107-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:94:13-43
+108            android:resource="@array/preloaded_fonts" />
+108-->D:\Alem\HealthCare-master\app\src\main\AndroidManifest.xml:95:13-54
+109
+110        <provider
+110-->[com.squareup.picasso:picasso:2.71828] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\2447bbdfdba768148342b8fb6f6a6491\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+111            android:name="com.squareup.picasso.PicassoProvider"
+111-->[com.squareup.picasso:picasso:2.71828] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\2447bbdfdba768148342b8fb6f6a6491\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+112            android:authorities="com.example.healthcare.com.squareup.picasso"
+112-->[com.squareup.picasso:picasso:2.71828] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\2447bbdfdba768148342b8fb6f6a6491\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+113            android:exported="false" />
+113-->[com.squareup.picasso:picasso:2.71828] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\2447bbdfdba768148342b8fb6f6a6491\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+114
+115        <activity
+115-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:24:9-31:50
+116            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+116-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:25:13-85
+117            android:excludeFromRecents="true"
+117-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:26:13-46
+118            android:exported="true"
+118-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:27:13-36
+119            android:launchMode="singleTask"
+119-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:28:13-44
+120            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+120-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:29:13-102
+121            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+121-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:30:13-72
+122
+123        <service
+123-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:33:9-39:19
+124            android:name="com.google.firebase.components.ComponentDiscoveryService"
+124-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:34:13-84
+125            android:directBootAware="true"
+125-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+126            android:exported="false" >
+126-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:35:13-37
+127            <meta-data
+127-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:36:13-38:85
+128                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+128-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:37:17-109
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-auth:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\14604c0a6af4167a1fbdfbf9ae7c8710\jetified-firebase-auth-19.3.0\AndroidManifest.xml:38:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-database:19.2.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:32:13-34:85
+131                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+131-->[com.google.firebase:firebase-database:19.2.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:33:17-109
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-database:19.2.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:34:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-storage:19.1.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c35340ecdc147c31bde9b8bd18c18794\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+134                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+134-->[com.google.firebase:firebase-storage:19.1.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c35340ecdc147c31bde9b8bd18c18794\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-storage:19.1.1] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c35340ecdc147c31bde9b8bd18c18794\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+136            <meta-data
+136-->[com.google.firebase:firebase-firestore:21.4.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\bf9a31e5c695a6f016f0d1a7f0317e29\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:20:13-22:85
+137                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+137-->[com.google.firebase:firebase-firestore:21.4.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\bf9a31e5c695a6f016f0d1a7f0317e29\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:21:17-111
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.firebase:firebase-firestore:21.4.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\bf9a31e5c695a6f016f0d1a7f0317e29\jetified-firebase-firestore-21.4.0\AndroidManifest.xml:22:17-82
+139        </service> <!-- Needs to be explicitly declared on P+ -->
+140        <uses-library
+140-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+141            android:name="org.apache.http.legacy"
+141-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+142            android:required="false" />
+142-->[com.google.android.gms:play-services-maps:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+143
+144        <activity
+144-->[com.google.android.gms:play-services-base:17.1.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+145            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+145-->[com.google.android.gms:play-services-base:17.1.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+146            android:exported="false"
+146-->[com.google.android.gms:play-services-base:17.1.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+147-->[com.google.android.gms:play-services-base:17.1.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+148
+149        <provider
+149-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+150            android:name="com.google.firebase.provider.FirebaseInitProvider"
+150-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+151            android:authorities="com.example.healthcare.firebaseinitprovider"
+151-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+152            android:exported="false"
+152-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+153            android:initOrder="100" />
+153-->[com.google.firebase:firebase-common:19.3.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+154
+155        <meta-data
+155-->[com.google.android.gms:play-services-basement:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+156            android:name="com.google.android.gms.version"
+156-->[com.google.android.gms:play-services-basement:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+157            android:value="@integer/google_play_services_version" />
+157-->[com.google.android.gms:play-services-basement:17.0.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+158
+159        <provider
+159-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+160            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+160-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+161            android:authorities="com.example.healthcare.lifecycle-process"
+161-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+162            android:exported="false"
+162-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+163            android:multiprocess="true" />
+163-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\BusReservation\.gradle\caches\transforms-2\files-2.1\dc5b001a60b389d2ab88bff44fb7f033\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+164    </application>
+165
+166</manifest>

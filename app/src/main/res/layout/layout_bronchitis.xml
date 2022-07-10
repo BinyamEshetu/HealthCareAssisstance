@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="15dp"
+        android:text="Symptoms"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="The main symptom is a cough, which may bring up yellow-grey mucus (phlegm). Bronchitis may also cause a sore throat and wheezing."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Causes"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="The bronchitis infection can be caused by either a virus or bacteria, although viral bronchitis is much more common."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Treatment"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="10dp"
+        android:text="get plenty of rest, drink lots of fluids – this helps prevent dehydration and thins the mucus in your lungs, making it easier to cough up,
+treat headaches, fever, and aches and pains with paracetamol or ibuprofen – although ibuprofen is not recommended if you have asthma "
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

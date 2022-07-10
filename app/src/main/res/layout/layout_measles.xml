@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Symptoms"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="The initial symptoms of measles can include:
+
+a runny or blocked nose,
+sneezing,
+watery eyes,
+swollen eyelids,
+sore, red eyes that may be sensitive to light,
+a high temperature (fever), which may reach around 40C (104F)."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Causes"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Anyone can get measles if they haven't been vaccinated or they haven't had it before, although it's most common in young children."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Treatment"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="10dp"
+        android:text="taking paracetamol or ibuprofen to relieve fever, aches and pains – aspirin should not be given to children under 16 years old
+drinking plenty of water to avoid dehydration
+closing the curtains to help reduce light sensitivity
+using damp cotton wool to clean the eyes"
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

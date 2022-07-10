@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="15dp"
+        android:text="Symptoms"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="The severity of these symptoms varies from person to person. Asthma can be controlled well in most people most of the time, although some people may have more persistent problems."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Causes"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Asthma is caused by inflammation of the small tubes, called bronchi, which carry air in and out of the lungs. If you have asthma, the bronchi will be inflamed and more sensitive than normal."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Treatment"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="10dp"
+        android:text="While there is no cure for asthma, there are a number of treatments that can help control the condition. Like, Treatment is based on two important goals, which are:
+relieving symptoms AND preventing future symptoms and attacks"
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

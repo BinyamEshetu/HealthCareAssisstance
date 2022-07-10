@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HealthNewsActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/border_bottom_roundedx">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fullName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat"
+                android:textColor="#FFF"
+                android:text="Health News"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/speciality"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat"
+                android:textColor="#FFF"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Discover Online Health News"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/none"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/eth"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/ntwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bbc"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/nthree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/clinicaladvisor"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/nfour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cnn"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/nfive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/discover"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/nsix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/theatlantic"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+        <TextView
+            android:id="@+id/nseven"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/abcnews"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:fontFamily="@font/montserrat"
+            android:textSize="28dp"/>
+
+
+
+    </LinearLayout>
+
+    </ScrollView>
+
+    </LinearLayout>
+

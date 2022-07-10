@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964796689011",
+    "firebase_url": "https://melahealthassistance-default-rtdb.firebaseio.com",
+    "project_id": "melahealthassistance",
+    "storage_bucket": "melahealthassistance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964796689011:android:ed14eacc444295827bd806",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964796689011-4fidtcv6o4dcmgs4poepg6ccp11baokk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9uMFDVMbOMd2T1ktwciu_hTsdc2g2z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964796689011-4fidtcv6o4dcmgs4poepg6ccp11baokk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

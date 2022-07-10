@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainFirstMenuActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/border_bottom_roundedx">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fullName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat"
+                android:textColor="#FFF"
+                android:text="Welcome"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/speciality"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat"
+                android:textColor="#FFF"
+                android:gravity="center"
+                android:text="Mela Health Assistance"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+            <LinearLayout
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:onClick="healthNews"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/customlinearlayout"
+                >
+                <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/ic_today"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Health News"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="16sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:onClick="problemandsolution"
+                android:background="@drawable/customlinearlayout"
+                android:layout_marginLeft="10dp"
+                >
+                <ImageView
+                    android:layout_width="74dp"
+                    android:layout_height="74dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/ic_patient"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Problem and Solution"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="16sp"/>
+            </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="10dp">
+            <LinearLayout
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/customlinearlayout"
+                android:onClick="hospitalandpharmacyinfo"
+                >
+                <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/ic_search"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hospital and Pharmacy Info"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="16sp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="135dp"
+                android:layout_height="125dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/customlinearlayout"
+                android:layout_marginLeft="10dp"
+                android:onClick="bmicalculator"
+                >
+                <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:src="@drawable/ic_calculator"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="BMI"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="16sp"/>
+
+            </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+            <LinearLayout
+                android:layout_width="289dp"
+                android:layout_height="100dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:onClick="account"
+                android:background="@drawable/customlinearlayout"
+                >
+                <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+
+                    android:src="@drawable/ic_person_pin"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ACCOUNT"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="16sp"/>
+
+
+            </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mela Health Assistance @ DBU IT G1 2014 E.C"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version - 1.0"
+
+            android:gravity="center"
+            android:textColor="@android:color/black"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

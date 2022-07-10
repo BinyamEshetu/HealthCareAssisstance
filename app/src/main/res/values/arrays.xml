@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city" >
+        <item>Addis Abeba</item>
+        <item>Bahir Dar</item>
+        <item>Debre Berhan</item>
+        <item>Dessie</item>
+        <item>Jimma</item>
+        <item>Gonder</item>
+    </string-array>
+</resources>

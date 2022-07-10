@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Symptoms"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Flu symptoms come on suddenly and affect the body all over. Flu symptoms are usually more serious than a cold and include:
+
+fever (100° F),
+headache,
+more intense pain and fatigue, and
+more severe, often dry cough."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Causes"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Both of these illnesses are upper respiratory infections, meaning they involve your nose, throat, and lungs. Viruses cause both colds and flu by increasing inflammation of the membranes in the nose and throat."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat_bold"
+
+        android:text="Treatment"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:fontFamily="@font/montserrat_bold"
+        android:layout_marginBottom="15dp"
+        android:text="Rest more than usual and avoid exercise until symptoms are gone.
+Drink lots of clear fluids (e.g., water, tea).
+Stay away from cigarette smoke."
+        android:background="@drawable/textviewboarder"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>

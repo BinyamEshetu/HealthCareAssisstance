@@ -1,0 +1,1962 @@
+[
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_stomachaches.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_stomachaches.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_folder.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_medical_folder.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_schedule_appointment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_schedule_appointment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_keyboard_arrow_right.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_menu.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_doctor_menu.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_doctor_ic.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\doctor_ic.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_access_time.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_access_time.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mypatient_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\mypatient_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundpatient.jpg.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\backgroundpatient.jpg"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_doctor_speciality.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_search_doctor_speciality.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombuttonxx.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\custombuttonxx.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_local_phone.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_local_phone.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pharmacyandhospitalinfo.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_pharmacyandhospitalinfo.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_consultation_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\consultation_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_forward.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_hospital_patient.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_hospital_patient.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_reason_layout_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\edit_reason_layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_patient.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_search_patient.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mypatient_consultation_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\mypatient_consultation_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hospitalisation_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\hospitalisation_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bmicalculate_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_bmicalculate_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_reason_layout_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\reason_layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete_grey.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete_grey.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_plus_sign.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_plus_sign.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_doctor_profile_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_display_doctor_profile_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_onhold_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\doctor_onhold_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_bottom_roundedx.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\border_bottom_roundedx.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_patient_in_hospital_bed.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_patient_in_hospital_bed.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_speciality_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\speciality_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info_outline.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_outline.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_hospital.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_hospital.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_mononucleosis.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_mononucleosis.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_calculator.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_calculator.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_hospitalisation_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\add_hospitalisation_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_edit_profile_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_doctor_edit_profile_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_photo_camera.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_photo_camera.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_molecular_bond.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_molecular_bond.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medical_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\medical_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_topside.jpg.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\topside.jpg"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_schedule.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_schedule.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_coldandflu.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_coldandflu.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_people.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_people.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_patient_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_display_patient_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_declined_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\doctor_declined_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_googlemap.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\googlemap.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_healthnews.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_healthnews.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_doctor_speciality.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\fragment_search_doctor_speciality.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_button.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\outline_button.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_patient_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_my_patient_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_satisfaction.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_satisfaction.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_consultation_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\edit_consultation_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mypatient_consultation_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\mypatient_consultation_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_appointments.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_doctor_appointments.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombuttonx.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\custombuttonx.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_doctor_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_my_doctor_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_diarrhea.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_diarrhea.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_problemandsolution.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_problemandsolution.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_doctor_appointments.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\fragment_doctor_appointments.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customlinearlayout.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\customlinearlayout.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_consultation_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\consultation_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_calendar.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_calendar.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appointments.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_appointments.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edittext.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus_sign.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plus_sign.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appointment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\appointment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_patient.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_patient.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmenttwo_layout.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\fragmenttwo_layout.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\gmail.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_disease.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\disease.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_card_membership.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_card_membership.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_melahealth.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\melahealth.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_bottom_rounded.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\border_bottom_rounded.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_consultationbackground.jpg.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\consultationbackground.jpg"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_accepted_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\accepted_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_check.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_check.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_heart_beats.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_heart_beats.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hospital_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_hospital_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_pin.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_pin.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_accepted_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\doctor_accepted_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_medical_history.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_medical_history.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_measles.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_measles.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_today.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_today.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_doctors.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_my_doctors.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customlinearlayoutx.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\customlinearlayoutx.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_appointment_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\appointment_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aliluchloutfi.jpg.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\aliluchloutfi.jpg"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_work.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_headaches.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_headaches.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cake.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cake.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_allergies.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_allergies.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_patient_medical_folder.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_my_patient_medical_folder.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_doctor.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_search_doctor.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_bronchitis.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_bronchitis.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ambulance.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ambulance.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_doctor_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_display_doctor_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_pin.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_pin.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_note.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_note.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctors_by_speciality.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_doctors_by_speciality.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_medical_history.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_medical_history.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first_menu.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_first_menu.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_declined_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\declined_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_anxiety.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_anxiety.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_onhold_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\onhold_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_schedule.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_schedule.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_patient.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_patient.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_hospitalisation_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\edit_hospitalisation_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit_1.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit_1.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_today_1.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable-v24\\ic_today_1.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_satisfaction.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_satisfaction.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ambulance_2.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ambulance_2.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_patients.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_my_patients.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_profile_informations.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_patient_profile_informations.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmap.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\gmap.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_location.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ambulance.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ambulance.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_calendar.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_patient_in_hospital_bed.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_patient_in_hospital_bed.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photo_camera.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit_to_app.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_molecular_bond.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_molecular_bond.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_local_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_local_phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_asthma.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_asthma.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_money.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_money.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_calculator.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_calculator.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_outline.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_outline.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_hospital.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_sans_bold.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\font\\nunito_sans_bold.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_linearlayout.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\outline_linearlayout.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_consultation_dialog.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\add_consultation_dialog.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_healthcareplus.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\healthcareplus.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_healthcare.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\healthcare.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_right.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_check.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombutton.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\custombutton.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_outline.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_outline.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\font\\montserrat_bold.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock_outline.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock_outline.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_healthcareplus.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\healthcareplus.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mypatient_hospitalisation_fragment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\mypatient_hospitalisation_fragment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ambulance_2.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ambulance_2.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_mydoctor_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\mydoctor_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit_grey.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit_grey.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_people.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_access_time.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_access_time.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach_money.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_money.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_disease.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\disease.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_note.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_note.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ggmap.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\ggmap.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textviewboarder.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\textviewboarder.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_forward.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_card_membership.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_card_membership.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_assignment.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_assignment.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_create_new_folder.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_create_new_folder.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_consultation_info.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_consultation_info.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_account.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_location_city.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location_city.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_onhold_appointment_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\onhold_appointment_row.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_item_data.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_display_item_data.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_work.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_work.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_create_new_folder.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_create_new_folder.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit_grey.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit_grey.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentone_layout.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\fragmentone_layout.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_heart_beats.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_heart_beats.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_city.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location_city.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_assignment.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_today.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_today.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_money.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_money.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_doctor_ic.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\doctor_ic.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cake.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cake.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_localisation.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\activity_doctor_localisation.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit_1.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit_1.xml"
+    },
+    {
+        "merged": "D:\\Alem\\HealthCare-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_hospitalisation_row.xml.flat",
+        "source": "D:\\Alem\\HealthCare-master\\app\\src\\main\\res\\layout\\hospitalisation_row.xml"
+    }
+]

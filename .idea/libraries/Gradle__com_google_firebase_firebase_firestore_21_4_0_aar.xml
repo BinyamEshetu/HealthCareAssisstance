@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:21.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../BusReservation/.gradle/caches/transforms-2/files-2.1/bf9a31e5c695a6f016f0d1a7f0317e29/jetified-firebase-firestore-21.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../BusReservation/.gradle/caches/transforms-2/files-2.1/bf9a31e5c695a6f016f0d1a7f0317e29/jetified-firebase-firestore-21.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../BusReservation/.gradle/caches/transforms-2/files-2.1/bf9a31e5c695a6f016f0d1a7f0317e29/jetified-firebase-firestore-21.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../BusReservation/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/21.4.0/b0a586ff4e3d796269f96166681632517ea85611/firebase-firestore-21.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../BusReservation/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/21.4.0/81f7a0a5b6015f5fb0a560747077d3df5c6d4c15/firebase-firestore-21.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
